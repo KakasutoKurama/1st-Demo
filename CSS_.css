@@ -1,23 +1,4 @@
-ul{
-    background-color: rgba(0, 0, 0, 0.685);
-    
-}
 
-li{
-    list-style-type: none;
-    display: inline-table;
-    padding: 10px;
-   
-} 
-a{  
-    color: white;
-    
-}
-
-a:hover{
-    color: white;
-    text-decoration: none;
-}
 
 h2{
     text-align: center;
@@ -25,19 +6,4 @@ h2{
 
 p{
     text-align: center;
-}
-
- .Facebook-icon{
-    float: right;
-    padding-right: 50px;
-    margin: 10px;
-    color: white;
-}
-
-.Github-icon{
-    float: right;
-    padding-right: 20px;
-    margin: 10px;
-    color: white;
-    weight: 100px;
 }
