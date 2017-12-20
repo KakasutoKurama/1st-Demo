@@ -4,6 +4,38 @@ h2{
     text-align: center;
 }
 
-p{
+.profile{
     text-align: center;
+}
+
+
+.ssk-img{
+    height: 200px;
+    width: 200px;
+    margin-left: 460px;
+}
+ hr{
+     border-bottom: 1px solid rgba(0, 0, 0, 0.164);
+ }
+
+.History-VN{
+    margin-top: 50px;
+}
+
+.DBP-image{
+    height: 350px;
+}
+
+.CMT8{
+    margin-top: 100px;
+}
+
+.CMT8-img{
+    height: 350px;
+    width: 620px;
+}
+
+.QK-img{
+    height: 350px;
+    width: 620px;
 }
