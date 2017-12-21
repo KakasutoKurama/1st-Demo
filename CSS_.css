@@ -1,4 +1,30 @@
+ul{
+    background-color: #666666;
+}
+li{
+    display: inline-block; 
+    padding: 20px;
 
+    
+}
+
+.Page-anchor{
+    color: #f5f5e9;
+   
+}
+a:hover{
+    text-decoration: none;
+    color: #f5f5e9;
+}
+
+.icon-li{
+   
+    float: right;  
+}
+     
+.icon{
+    color: #f5f5e9;
+}
 
 h2{
     text-align: center;
@@ -33,6 +59,10 @@ h2{
 .CMT8-img{
     height: 350px;
     width: 620px;
+}
+
+.QK{
+    margin-top: 100px;
 }
 
 .QK-img{
